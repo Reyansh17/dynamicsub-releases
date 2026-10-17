@@ -1,4 +1,4 @@
-# DynamicSub for Mac
+# DynamicSub for Mac and Windows
 
 Captions, text-behind, lighting and sound for talking-head videos — running on your own laptop.
 Hinglish, हिन्दी and English. No credits, no watermark.
@@ -15,7 +15,13 @@ curl -fsSL https://dynamicsub.reyansh7447.workers.dev/install.sh | sh
 
 It downloads the latest release into Applications and opens it. No warnings. [Read the script](https://dynamicsub.reyansh7447.workers.dev/install.sh) before you run it if you like; it only touches `DynamicSub.app`.
 
-## Or download the .dmg
+## Windows
+
+**[Download for Windows (64-bit)](https://github.com/Reyansh17/dynamicsub-releases/releases/latest/download/DynamicSub-windows-x64-setup.exe)** — Windows 10 or 11.
+
+Run the installer. The first time, Windows may show "Windows protected your PC" because the app is new: click **More info**, then **Run anyway**. Captions run on your CPU, offline.
+
+## Or download the .dmg (Mac)
 
 **[Download for Mac (Apple silicon)](https://github.com/Reyansh17/dynamicsub-releases/releases/latest/download/DynamicSub-mac-arm64.dmg)**
 
